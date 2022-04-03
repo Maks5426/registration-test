@@ -421,9 +421,11 @@ body {
   color: antiquewhite;
   border: 2px solid transparent;
   padding: 5px 20px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-nav__link:hover {
-  color: blue;
+  color: white;
   border: 2px solid rgba(181, 204, 223, 0.5);
   border-radius: 5px;
 }
@@ -434,9 +436,11 @@ body {
   color: antiquewhite;
   text-transform: uppercase;
   padding: 5px 20px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-nav__registration:hover {
-  color: blue;
+  color: white;
   border: 2px solid rgba(181, 204, 223, 0.5);
   border-radius: 5px;
 }
@@ -507,6 +511,8 @@ body {
   text-decoration: none;
   padding: 13px 25px;
   border: 1px solid #70a2c5;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-form-output-buttoms__sent:hover {
   background: #70a2c5;
@@ -522,6 +528,8 @@ body {
   text-decoration: none;
   padding: 10px 20px;
   border: 1px solid #70a2c5;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-form-output-back__aback:hover {
   background: #70a2c5;
@@ -532,6 +540,8 @@ body {
   text-decoration: none;
   padding: 10px 20px;
   border: 1px solid #70a2c5;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-form-registration__link:hover {
   background: #70a2c5;
@@ -542,6 +552,8 @@ body {
   text-decoration: none;
   padding: 10px 20px;
   border: 1px solid #70a2c5;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .main-content-form-login__link:hover {
   background: #70a2c5;
